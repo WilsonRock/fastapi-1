@@ -1,3 +1,4 @@
+email-validator
 beautifulsoup4
 aiosqlite==0.18.0
 anyio==3.6.1
